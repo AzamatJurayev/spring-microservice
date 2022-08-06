@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/spring-cloud/pom.xml" />
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
         <option value="$PROJECT_DIR$/CuryerService/pom.xml" />
+        <option value="$PROJECT_DIR$/bot/pom.xml" />
       </list>
     </option>
   </component>
