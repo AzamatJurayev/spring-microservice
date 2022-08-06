@@ -1,0 +1,16 @@
+package com.example.adminservice.entity.enums;
+
+/**
+ * @author "Husniddin Ulachov"
+ * @created 12:14 PM on 8/3/2022
+ * @project adminService
+ */
+public enum OrderStatus {
+    NEW,
+    PENDING,
+    IN_PROGRESS,
+    APPROVED,
+    DELIVERED,
+    CANCELED, //mijoz
+    REJECTED //tizim
+}
